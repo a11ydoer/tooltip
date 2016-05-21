@@ -1,2 +1,2 @@
-# tooltips
-Accessible tooltips with keyboard support
+# tooltip
+Accessible tooltip widget with keyboard support
